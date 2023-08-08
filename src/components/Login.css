@@ -1,0 +1,28 @@
+.form-group label{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.form-group input{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+    width: 50%;
+}
+
+.btn{
+    padding: 10px 25px;
+    background-color: darkgray;
+    font-size: 18px;
+    border: none;
+}
+
+.upper-form{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+
+}
